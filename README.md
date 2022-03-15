@@ -1,2 +1,0 @@
-# Ander
-Tarea
